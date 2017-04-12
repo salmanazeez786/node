@@ -1,5 +1,5 @@
 {
-    "name": "composer/test",
+    "name": "salman/composer",
     "require": {
         "monolog/monolog": "1.0.*"
     }
